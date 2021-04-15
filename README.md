@@ -27,3 +27,5 @@ Pay in Baltimore city is heavily skewed towards the top percentages of employees
 [Data](https://github.com/cmclane1/Python_Analysis_of_Baltimore_Salaries/blob/main/Baltimore_Employee_Salaries%20(1).csv)
 
 [Baltimore City Data](https://data.baltimorecity.gov/datasets/baltimore-employee-salaries/data)
+
+[Python Analysis](https://github.com/cmclane1/Python_Analysis_of_Baltimore_Salaries/blob/main/Baltimore_Salaries.ipynb)
