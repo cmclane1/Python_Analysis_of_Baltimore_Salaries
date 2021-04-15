@@ -24,6 +24,6 @@ Pay in Baltimore city is heavily skewed towards the top percentages of employees
 ## Links to Sources
 [Analysis](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimor-Bristol-Analysis.xlsx)
 
-[Data](https://data.baltimorecity.gov/datasets/baltimore-employee-salaries/data)
+[Data](https://github.com/cmclane1/Python_Analysis_of_Baltimore_Salaries/blob/main/Baltimore_Employee_Salaries%20(1).csv)
 
 [Baltimore City Data](https://data.baltimorecity.gov/datasets/baltimore-employee-salaries/data)
