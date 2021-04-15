@@ -14,17 +14,11 @@ Baltimore needs to examine why the education rates are so low and try and improv
 ![alt text](https://github.com/cmclane1/Python_Analysis_of_Baltimore_Salaries/blob/main/Annual%20Salary%20of%20Baltimore%20Employees.png)
 
 ## Step by Step Walkthrough
-  For the analysis I downloaded the data from opportunity atlas and copied it to a new worksheet. Then I created tables for both sets of data and used filters to remove any extra data that was not for Baltimore City or Bristol County. Then I found the maximum and minimum incomes of Baltimore using MAX and MIN functions so I could gauge the range of values. Then I divided it into ten buckets for use in the histogram, rounding the values to a range of 4,500. I then used the frequency function to see how many tracts fit into each bucket. Baltimore has many more tracts than Bristol, so I changed each histogram count from a raw count of tracts to a percent of the total for that county. This allowed me to graph them both on the same histogram side by side and get a good-looking representation of both counties outcome distributions. Other data such as the education numbers were taken directly from opportunity atlas and I did not download a CSV because it would only be one or two values. 
+For the analysis I downloaded the data from opportunity atlas and copied it to a new worksheet. Then I created tables for both sets of data and used filters to remove any extra data that was not for Baltimore City or Bristol County. Then I found the maximum and minimum incomes of Baltimore using MAX and MIN functions so I could gauge the range of values. Then I divided it into ten buckets for use in the histogram, rounding the values to a range of 4,500. I then used the frequency function to see how many tracts fit into each bucket. Baltimore has many more tracts than Bristol, so I changed each histogram count from a raw count of tracts to a percent of the total for that county. This allowed me to graph them both on the same histogram side by side and get a good-looking representation of both counties outcome distributions. Other data such as the education numbers were taken directly from opportunity atlas and I did not download a CSV because it would only be one or two values. 
   
 ## Links to Sources
 [Analysis](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimor-Bristol-Analysis.xlsx)
 
-[Data](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimore-Bristol-Data.xlsx)
+[Data](https://data.baltimorecity.gov/datasets/baltimore-employee-salaries/data)
 
-[Opportunity Atlas](https://www.opportunityatlas.org/)
-
-[Baltimore Wikipedia](https://en.wikipedia.org/wiki/Baltimore)
-
-[Bristol County Wikipedia](https://en.wikipedia.org/wiki/Bristol_County,_Rhode_Island)
-
-[Catholic Counties of the US](https://www.thearda.com/ql2010/QL_C_2010_1_26c.asp)
+[Baltimore City Data](https://data.baltimorecity.gov/datasets/baltimore-employee-salaries/data)
